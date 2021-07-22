@@ -20,33 +20,42 @@
 <body>
 
   <main class="main">
-    <section class="logo">
-        <img src="images/logo.svg" alt="The logo of the store">
-    </section>
-    <section class="image">
-      <img src="images/hero-mobile.jpg" alt="">
-    </section>
-
-    <section class="soon-email">
-      <h1><span>We're</span> <span>coming soon</span></h1>
-      <p class="content">
-        Hello fellow shoppers! We're currently building our new fashion store.
-        Add your email below to stay up-to-date with announcements and our launch deals.
-      </p>
-      
-      <section class="buttonInput">
-        <input type="text" id="email" placeholder="Email Address">
-        <button><img src="images/icon-arrow.svg" alt=""></button>
+    <div class="grid-container">
+      <div class="background-image">
+        <img src="images/bg-pattern-desktop.svg" alt="">
+      </div>
+      <section class="logo">
+          <img src="images/logo.svg" alt="The logo of the store">
       </section>
-    </section>
-    
-  </main>
-  
+      <section class="image">
+        <!-- <img src="images/hero-mobile.jpg" alt="Image of a girl"> -->
+      </section>
+      <section class="desktop-image">
+        <!-- <img src="images/hero-mobile.jpg" alt="Image of a girl"> -->
+      </section>
+      <section class="soon-email">
+        <div class="hearder">
+          <h1><span>We're</span> <span>coming soon</span></h1>
+        </div>
+        <p class="content">
+          Hello fellow shoppers! We're currently building our new fashion store.
+          Add your email below to stay up-to-date with announcements and our launch deals.
+        </p>
+        <section class="buttonInput">
+          <input type="text" id="email" placeholder="Email Address">
+          <button><img src="images/icon-arrow.svg" alt=""></button>
+          <div class="error"><img src="images/icon-error.svg" alt=""></div>
+        </section>
+      </section>
+    </div>
   <footer>
     <p class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
       Coded by <a href="#">Your Name Here</a>.
     </p>
-  </footer>
+  </footer>  
+  </main>
+  
+  
 </body>
 </html>
