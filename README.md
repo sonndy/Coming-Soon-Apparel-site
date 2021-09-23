@@ -19,7 +19,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 ![](images/desktopDesign.png)
 ![](images/mobileDesign.png)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Live Site URL](https://sonndy.github.io/Coming-Soon-Apparel-site/)
 
 ## My process
 
@@ -32,11 +32,9 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 
 ### What I learned
-
+Designing this website helps me create the workflow I need to use when I know that my website should be responsive and flexible to mobile and tablet screen size. Moreover, creating this website helped me learn how to implement form validations and why it’s important to validate users' input before storing them.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Sonndy Exantus](https://sonndy.com/)
 
